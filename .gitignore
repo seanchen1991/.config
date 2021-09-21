@@ -1,0 +1,8 @@
+coc/
+configstore/
+gh/
+iterm2/
+oni2/
+yarn/
+nvim/coc-settings.json
+nvim/plugged/
